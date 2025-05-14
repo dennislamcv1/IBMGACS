@@ -1,5 +1,5 @@
 # IBMGACS
-## IBM Generative AI for Cybersecurity Professionals Specialization
+## IBM Generative AI for Cybersecurity Professionals Specialization (3 course series)
 
 Generative AI skills are becoming an essential part of a cybersecurity professional’s toolkit. Begin by learning how to distinguish generative AI from discriminative AI. You’ll explore real-world generative AI use cases and discover popular generative AI models and tools for text, code, image, audio, and videos.
 
